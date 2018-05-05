@@ -1,0 +1,11 @@
+INSERT INTO "Model_Abarth" VALUES(1,2,'124 Spider');
+INSERT INTO "Model_Abarth" VALUES(2,2,'500');
+INSERT INTO "Model_Abarth" VALUES(3,2,'500C');
+INSERT INTO "Model_Abarth" VALUES(4,2,'595');
+INSERT INTO "Model_Abarth" VALUES(5,2,'595C');
+INSERT INTO "Model_Abarth" VALUES(6,2,'595 Competizione');
+INSERT INTO "Model_Abarth" VALUES(7,2,'595 Turismo');
+INSERT INTO "Model_Abarth" VALUES(8,2,'695');
+INSERT INTO "Model_Abarth" VALUES(9,2,'695 C');
+INSERT INTO "Model_Abarth" VALUES(10,2,'Grande Punto');
+INSERT INTO "Model_Abarth" VALUES(11,2,'Punto Evo');

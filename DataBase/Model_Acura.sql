@@ -1,0 +1,6 @@
+INSERT INTO "Model_Acura" VALUES(1,3,'MDX');
+INSERT INTO "Model_Acura" VALUES(2,3,'NSX');
+INSERT INTO "Model_Acura" VALUES(3,3,'RL');
+INSERT INTO "Model_Acura" VALUES(4,3,'RSX');
+INSERT INTO "Model_Acura" VALUES(5,3,'TL');
+INSERT INTO "Model_Acura" VALUES(6,3,'TSX');
